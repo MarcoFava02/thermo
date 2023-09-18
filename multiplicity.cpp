@@ -18,5 +18,5 @@ int main() {
   O = OA*OB;
 
 
-  std::cout << "The molteplicity of the macrostate, composed by system A ("<< NA <<" oscillators) with energy q_A = "<< qa <<" and system B ("<< NB <<" oscillators) with energy q_B = "<< qb <<", is "<< O <<"\n"<< std::endl;
+  std::cout << "The multiplicity of the macrostate, composed by system A ("<< NA <<" oscillators) with energy q_A = "<< qa <<" and system B ("<< NB <<" oscillators) with energy q_B = "<< qb <<", is "<< O <<"\n"<< std::endl;
 }
